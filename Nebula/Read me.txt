@@ -1,0 +1,8 @@
+Hello!
+This Is Nebula Info Stealer 
+
+The reason I made it again is that the stealer wasnt able to decrypt the web browser passwords.
+
+instead of tcp and browser passwords it steals info and sends all the data to discord webhook url.
+
+Made For Educational Purposes!🌌👾
